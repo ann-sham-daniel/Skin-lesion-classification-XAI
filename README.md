@@ -124,9 +124,10 @@ This project is intended for academic and research purposes and is not a medical
 └── .gitignore
 ```
 
-Important Note
+## Important Note
 
-This project is intended for academic and research purposes. The model is not a medical diagnostic system and should not be used as a substitute for evaluation by a qualified healthcare professional.
+This project is intended for **academic and research purposes**. The model is not a medical diagnostic system and should not be used as a substitute for evaluation by a qualified healthcare professional.
 
-Author
-Ann Sham Daniel
+## Author
+
+**Ann Sham Daniel**
